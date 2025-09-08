@@ -1,5 +1,3 @@
-## My CV 👋
-
 # Nikita Beliaev
 
 **Game Developer / Frontend Web Developer**
